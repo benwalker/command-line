@@ -27,6 +27,7 @@
 
 `dotnet --version`
 `dotnet new`
+`dotnet new -i identityserver4.templates`
 
 ## VSCode
 
@@ -73,6 +74,14 @@
 ## Rust
 
 `rustc --version`
+
+## Python
+
+`py --version`
+
+## PyPi
+
+`pip --version`
 
 ## Minikube
 
