@@ -7,8 +7,8 @@ git clone <url>
 
 ## Docker
 
-docker images
-docker build
+`docker images`
+`docker build`
 docker run
 docker ps
 docker stop
