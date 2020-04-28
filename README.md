@@ -28,6 +28,7 @@
 `dotnet --version`
 `dotnet new`
 `dotnet new -i identityserver4.templates`
+`dotnet new sln -n todo-identity.sln`
 
 ## VSCode
 
